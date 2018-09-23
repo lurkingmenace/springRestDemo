@@ -1,4 +1,4 @@
-package com.jdivirgilio.webSecurity.config;
+package com.jdivirgilio.springRestDemo.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

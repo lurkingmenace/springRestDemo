@@ -1,4 +1,4 @@
-package com.jdivirgilio.webSecurity.config;
+package com.jdivirgilio.springRestDemo.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -9,7 +9,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages="com.jdivirgilio.webSecurity")
+@ComponentScan(basePackages="com.jdivirgilio.springRestDemo")
 public class Config {
 
 	/* Here is the equivalent XML version
