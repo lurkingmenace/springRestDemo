@@ -1,4 +1,4 @@
-package com.jdivirgilio.sprintRestDemo.entity;
+package com.jdivirgilio.springRestDemo.controller;
 
 public class StudentNotFoundException extends RuntimeException {
 
